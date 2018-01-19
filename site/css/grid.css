@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+
+.container {
+    margin:0 auto;
+    width: 720px;
+    height: 1280px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
